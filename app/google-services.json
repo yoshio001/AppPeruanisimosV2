@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "61365648196",
+    "firebase_url": "https://appperuanisimosv2.firebaseio.com",
+    "project_id": "appperuanisimosv2",
+    "storage_bucket": "appperuanisimosv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61365648196:android:bba60f2efa60f37d",
+        "android_client_info": {
+          "package_name": "com.isil.appperuanisimosv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61365648196-vbm1rk8oqi7h5q2o0h9f3dh84j1brnrp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.isil.appperuanisimosv2",
+            "certificate_hash": "ffa9a808b8c92bde5238c1e3859e9a12db9f374b"
+          }
+        },
+        {
+          "client_id": "61365648196-fgg0ifnba1e067fogbopjv3pc1jgkib0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCIQUte4a3H6-1ddwmJUYnvdK1tYj2nEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61365648196-fgg0ifnba1e067fogbopjv3pc1jgkib0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
